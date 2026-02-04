@@ -1,3 +1,4 @@
-﻿# this is a template website
-you do NOT need main.js
+﻿# This is a template website.
+You do NOT need main.js
+
 
